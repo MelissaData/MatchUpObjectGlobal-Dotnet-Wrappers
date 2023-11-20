@@ -14,7 +14,7 @@ For further details, please visit: https://wiki.melissadata.com/index.php?title=
 
 - Windows 10 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa MatchUp Object Global for 2023-Q3
+- Melissa MatchUp Object Global for 2023-Q4
 
 ## Getting Started
 
