@@ -5,22 +5,22 @@ This is the code for you to run MatchUp Object Global in .NET.
 
 Please feel free to copy or embed this code to your own project. Happy coding!
 
-For latest Melissa MatchUp Object Global release notes, please visit: https://releasenotes.melissa.com/on-premise-api/matchup-object-global/
+To view the latest Melissa MatchUp Object Global release notes or to subscribe to product notifications, please visit: https://releasenotes.melissa.com/on-premise-api/matchup-object-global/
 
 For further details, please visit: https://docs.melissa.com/on-premise-api/matchup-object-global/matchup-object-global-quickstart.html
 
 ## Tested Environments
-- Windows 10 64-bit .NET 7.0, Powershell 5.1
+- Windows 11 64-bit .NET 7.0, Powershell 5.1
 - Linux 64-bit .NET 7.0, Ubuntu 20.04.05 LTS
-- Melissa MatchUp Object Global for 2025-Q4
+- Melissa MatchUp Object Global for 2026-Q1
 - Wrapper file(s) have not changed since 2023-Q4
 
 ## Getting Started
 
 ### Download this project
 ```
-git clone https://github.com/MelissaData/MatchUpObjectGlobal-Dotnet-Wrappers
-cd MatchUpObjectGlobal-Dotnet-Wrappers
+git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissamatchupobjectnetwrappers.git
+cd melissamatchupobjectnetwrappers
 ```
 
 ### Copy wrappers to your project folder
