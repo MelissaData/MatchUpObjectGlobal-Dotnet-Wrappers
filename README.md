@@ -19,8 +19,8 @@ For further details, please visit: https://docs.melissa.com/on-premise-api/match
 
 ### Download this project
 ```
-git clone https://git.melissadata.com/dtgroup/melissadataobjectexamples/net/melissamatchupobjectnetwrappers.git
-cd melissamatchupobjectnetwrappers
+git clone https://github.com/MelissaData/MatchUpObjectGlobal-Dotnet-Wrappers
+cd MatchUpObjectGlobal-Dotnet-Wrappers
 ```
 
 ### Copy wrappers to your project folder
